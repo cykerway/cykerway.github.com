@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Tom Preston-Werner</title>
+ <link href="http://tom.preston-werner.com/atom.xml" rel="self"/>
+ <link href="http://tom.preston-werner.com/"/>
+ <updated>2012-01-20T03:47:11+08:00</updated>
+ <id>http://tom.preston-werner.com/</id>
+ <author>
+   <name>Tom Preston-Werner</name>
+   <email>tom@mojombo.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Wuha hali</title>
+   <link href="http://tom.preston-werner.com/2012/01/20/a-simple-test.html"/>
+   <updated>2012-01-20T00:00:00+08:00</updated>
+   <id>http://tom.preston-werner.com/2012/01/20/a-simple-test</id>
+   <content type="html">&lt;h1&gt;Wuha hali&lt;/h1&gt;
+
+&lt;p class=&quot;meta&quot;&gt;20 January 2012 - Beijing&lt;/p&gt;
+
+
+&lt;p&gt;Oh my god! This is a webpage!&lt;/p&gt;
+
+&lt;p&gt;What? Don't you understand it? Yes, it's just for a test!&lt;/p&gt;
+
+&lt;p&gt;Here is a list:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Ah! That's a miracle!&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ah! That's a miracle, too!&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;How could I make it real?&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Hmm...No way?&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Oh, there is a solution.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;--&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.cykerway.com/&quot;&gt;Discuss this post on www.cykerway.com&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
